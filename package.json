@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "dist/src/server.js",
   "scripts": {
     "build": "tsc",
     "start": "node dist/server.js",
